@@ -24,7 +24,7 @@ const CONFIG = {
 
   // Weather
   weatherKey: 'ab313ccc7d98b71b76ce7d9262457232',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
+  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White', 'OneDark'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -88,19 +88,19 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
+        name: 'Lazy Afternoon',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Classic',
+        name: 'Morning',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Oldies',
+        name: 'Pump',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Rock',
+        name: 'Sad',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
     ],
@@ -118,7 +118,7 @@ const CONFIG = {
         link: 'https://dribbble.com',
       },
       {
-        name: 'Telegram',
+        name: 'WhatsApp',
         link: 'https://webk.telegram.org',
       },
     ],
