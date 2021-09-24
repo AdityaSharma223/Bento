@@ -100,31 +100,27 @@ const CONFIG = {
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Sad',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
         name: 'Main',
         link: 'https://www.youtube.com/watch?v=mJW57E7GpSo&list=PLAY6tyK5EpXLHQ-2UWb7caMlnTg36HOMy&index=2 ',
       },
     ],
-    // secondList: [
-    //   {
-    //     name: 'Linkedin',
-    //     link: 'https://linkedin.com/',
-    //   },
-    //   {
-    //     name: 'Figma',
-    //     link: 'https://figma.com/',
-    //   },
-    //   {
-    //     name: 'Dribbble',
-    //     link: 'https://dribbble.com',
-    //   },
-    //   {
-    //     name: 'WhatsApp',
-    //     link: 'https://webk.telegram.org',
-    //   },
-    // ],
+    secondList: [
+      {
+        name: 'Linkedin',
+        link: 'https://linkedin.com/',
+      },
+      {
+        name: 'Figma',
+        link: 'https://figma.com/',
+      },
+      {
+        name: 'Dribbble',
+        link: 'https://dribbble.com',
+      },
+      {
+        name: 'WhatsApp',
+        link: 'https://webk.telegram.org',
+      },
+    ],
   },
 };
